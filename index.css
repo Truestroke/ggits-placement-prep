@@ -1,0 +1,57 @@
+.logo{
+    height: 50px;
+    width :50px ;
+    
+   
+   
+}
+
+.navbar-brand{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+    margin-right: 70px;
+}
+
+.p-2{
+    text-decoration: none;
+
+}
+.p-2:hover{
+    color: gray;
+}
+
+.about{
+    text-align: center;
+    font-family: 'Arvo', serif;
+font-family: 'Oswald', sans-serif;
+
+font-weight: bolder;
+font-size: 50px;
+color: rgb(54, 54, 131);
+}
+
+.footer{
+    background-color: gray;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.footer-headings{
+    color: white;
+}
+
+.alert{
+    margin:0%; 
+    padding-left: 30px; 
+    padding-top: 3px;
+     padding-right: 3px;
+     padding-bottom: 3px;
+     background-color: rgb(21, 197, 91);
+     border-radius: 0%;
+}
+
+h4{
+    color: rgb(8, 8, 182);
+}
